@@ -1,7 +1,7 @@
 # Hi 👋, I'm Aziz
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Laravel+%26+PHP+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Tea-fueled+Developer%20🍵;Laravel+%26+PHP+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
 ---
