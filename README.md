@@ -47,15 +47,3 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=azizyavas&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/azizyavas/azizyavas/output/snake.svg" alt="Snake animation" />
-</div>
