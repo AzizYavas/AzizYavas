@@ -13,7 +13,7 @@
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Laravel, PHP, MySQL**
 - 📫 How to reach me: **uazizyavas@gmail.com**
-- ⚡ Fun fact: **I love coding and coffee!**
+- ⚡ Fun fact: **I love coding and tea!** 🍵
 
 ---
 
